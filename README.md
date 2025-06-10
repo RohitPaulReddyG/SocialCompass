@@ -1,5 +1,5 @@
 
-# Social Compass - Firebase Studio Project
+# Social Compass
 
 Welcome to Social Compass! This is a Next.js application built with Firebase Studio, designed to help you understand and navigate your social energy.
 
